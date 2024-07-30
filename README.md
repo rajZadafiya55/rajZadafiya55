@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zadafiyaraj395@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bfxXLLHWGxAviYTPXD6rWilBKn-EzGc-/view?usp=drive_link]https://drive.google.com/file/d/1cQg5hC35_PG4mIVjBr-k2IfAxiSBUYOE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cQg5hC35_PG4mIVjBr-k2IfAxiSBUYOE/view?usp=sharing]https://drive.google.com/file/d/1cQg5hC35_PG4mIVjBr-k2IfAxiSBUYOE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
