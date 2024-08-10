@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajzadafiya55" alt="rajzadafiya55" /></a> </p>
 
-- 🔭 I’m currently working on [youtube](https://yoouttube.vercel.app/) project. 
+- 🔭 I’m currently Pursuing MCA at LDRP-ITR. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajZadafiya55](https://github.com/rajZadafiya55)
 
