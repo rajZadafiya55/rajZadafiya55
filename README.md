@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Raj Zadafiya</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajzadafiya55&label=Profile%20views&color=0e75b6&style=flat" alt="rajzadafiya55" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajzadafiya55" alt="rajzadafiya55" /></a> </p>
 
-- 🔭 I’m currently Pursuing MCA at LDRP-ITR. 
+- 🔭 I have completed MCA at LDRP-ITR. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajZadafiya55](https://github.com/rajZadafiya55)
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **zadafiyaraj395@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1j2_0KFwdZ3kL9uHyWjhi7kLfQTRDrdAl/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1IMk96dxOJGyHip0jRQeBRi6aDMOsntPC/view?usp=drive_link
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
