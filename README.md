@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj Zadafiya</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajzadafiya55&label=Profile%20views&color=0e75b6&style=flat" alt="rajzadafiya55" /> </p>
+<p align="left"> Protfolio : </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajzadafiya55" alt="rajzadafiya55" /></a> </p>
+<p align="left"> <a href="https://protfolio-raj-zadafiya.vercel.app/">view<</a> </p>
 
 - 🔭 I have completed MCA at LDRP-ITR. 
 
