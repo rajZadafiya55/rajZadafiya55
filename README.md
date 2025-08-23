@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Zadafiya</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> Protfolio : <a href="https://protfolio-raj-zadafiya.vercel.app/">view<</a></p>
+<p align="left"> Protfolio : <a href="https://protfolio-raj-zadafiya.vercel.app/">view</a></p>
 
 - 🔭 I have completed MCA at LDRP-ITR. 
 
